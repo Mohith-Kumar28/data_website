@@ -27,7 +27,7 @@ const Brands = () => {
         <div className="rounded-lg h-64 overflow-hidden">
           <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1203x503"/>
         </div>
-        <h2 className="text-xl font-medium title-font text-white mt-5">Shooting Stars</h2>
+        <h2 className="text-xl font-medium title-font text-white mt-5">Brand 1</h2>
         {/* <p className="text-base leading-relaxed mt-2">Swag shoindxgoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p> */}
         <a className="text-purple-400 inline-flex items-center mt-3">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
@@ -39,7 +39,7 @@ const Brands = () => {
         <div className="rounded-lg h-64 overflow-hidden">
           <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1204x504"/>
         </div>
-        <h2 className="text-xl font-medium title-font text-white mt-5">The Catalyzer</h2>
+        <h2 className="text-xl font-medium title-font text-white mt-5">Brand 2</h2>
         {/* <p className="text-base leading-relaxed mt-2">Swag shoindxigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p> */}
         <a className="text-purple-400 inline-flex items-center mt-3">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
@@ -51,7 +51,7 @@ const Brands = () => {
         <div className="rounded-lg h-64 overflow-hidden">
           <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1205x505"/>
         </div>
-        <h2 className="text-xl font-medium title-font text-white mt-5">The 400 Blows</h2>
+        <h2 className="text-xl font-medium title-font text-white mt-5">Brand 3</h2>
         {/* <p className="text-base leading-relaxed mt-2">Swag shoindegoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p> */}
         <a className="text-purple-400 inline-flex items-center mt-3">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
@@ -64,7 +64,7 @@ const Brands = () => {
         <div className="rounded-lg h-64 overflow-hidden">
           <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1205x505"/>
         </div>
-        <h2 className="text-xl font-medium title-font text-white mt-5">The 400 Blows</h2>
+        <h2 className="text-xl font-medium title-font text-white mt-5">Brand 4</h2>
         {/* <p className="text-base leading-relaxed mt-2">Swag shoindegoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p> */}
         <a className="text-purple-400 inline-flex items-center mt-3">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
@@ -77,7 +77,7 @@ const Brands = () => {
         <div className="rounded-lg h-64 overflow-hidden">
           <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1205x505"/>
         </div>
-        <h2 className="text-xl font-medium title-font text-white mt-5">The 400 Blows</h2>
+        <h2 className="text-xl font-medium title-font text-white mt-5">Brand 5</h2>
         {/* <p className="text-base leading-relaxed mt-2">Swag shoindegoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p> */}
         <a className="text-purple-400 inline-flex items-center mt-3">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
