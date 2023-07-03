@@ -7,7 +7,7 @@ const Demo = () => {
   <div className="container max-w-5xl px-5 py-32 mx-auto flex flex-wrap items-center">
     <div className=" md:w-1/2 md:pr-16 ">
       <h1 className="title-font font-medium text-3xl text-white">Get a Demo</h1>
-      <p className="leading-relaxed mt-4">Poke slow-carb mixtape knausgaard, typewriter street art gentrify hammock starladder roathse. Craies vegan tousled etsy austin.</p>
+      <p className="leading-relaxed mt-4">Request a demo to experience the power of Chargevisor firsthand. Our team will provide personalized insights and live demonstrations of fraud detection capabilities tailored to your specific business needs. Discover how Chargevisor can protect your organization from emerging threats and provide comprehensive fraud prevention.</p>
 
 
 
@@ -17,21 +17,21 @@ const Demo = () => {
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" className="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
-            </span>First Point
+            </span>Live Demo
           </a>
           <a>
             <span className="bg-gray-800 text-purple-400 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" className="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
-            </span>Second Point
+            </span>Fraud Protection
           </a>
           <a>
             <span className="bg-gray-800 text-purple-400 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" className="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
-            </span>Third Point
+            </span>Tailored Experience
           </a>
         
         </nav>
@@ -51,7 +51,7 @@ const Demo = () => {
         <label for="email" className="leading-7 text-sm text-gray-400">Email</label>
         <input type="email" id="email" name="email" className="w-full bg-gray-600 bg-opacity-20 focus:bg-transparent focus:ring-2 focus:ring-purple-900 rounded border border-gray-600 focus:border-purple-500 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
       </div>
-      <button className="text-white bg-purple-500 border-0 py-2 px-8 focus:outline-none hover:bg-purple-600 rounded text-lg">Send Demo request</button>
+      <button className="text-white font-semibold bg-purple-500 border-0 py-2 px-8 focus:outline-none hover:bg-purple-600 rounded text-lg">Send Demo request</button>
       <p className="text-xs mt-3">Your details are safe with us.</p>
     </div>
   </div>

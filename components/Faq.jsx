@@ -1,14 +1,24 @@
 import React from 'react'
 import According from './According'
+import Lottie from "lottie-react";
+import blueWaves from "../animations/blueWaves.json";
+// import dynamic from "next/dynamic";
+
+// const blueWaves= dynamic(() => import("../animations/blueWaves.json"), {
+// ssr: false,
+// });
 
 const Faq = () => {
   return (
-    <div>
-        <section className="text-gray-400 bg-gray-900 body-font">
-  <div className="  container max-w-5xl px-5 py-24 mx-auto flex ">
+    <div className='relative'>
+
+<Lottie className='rotate-180 absolute bottom-56 z-0 left-0 w-full' animationData={blueWaves} loop={true} />
+
+        <section className="text-gray-400 relative z-10 bg-[#60C3D8] body-font">
+  <div className="  container max-w-5xl px-5 py-32 mx-auto flex ">
     <h2 className="sm:text-3xl text-2xl text-white font-medium title-font mb-2 ">FAQ's</h2>
     <div className="flex flex-grow ">
-    <div className='w-3 rounded-full flex h-full flex-col bg-gray-700 mx-8'></div>
+    <div className='w-3 rounded-full flex h-full flex-col bg-gray-800 mx-8'></div>
      <According/>
       
     </div>
