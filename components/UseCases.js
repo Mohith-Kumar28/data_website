@@ -84,7 +84,7 @@ const UseCases = () => {
     </div>
     <div className="flex flex-col md:w-2/3 md:pl-12">
 
-<div className='flex'>
+<div className='flex flex-col md:flex-row'>
     <Lottie className='  w-80 ' animationData={lock} loop={true} />
 
       <h2 className="title-font font-bold text-white tracking-wider text-lg md:pr-24 mt-10">Chargevisor provides comprehensive fraud protection in various industries</h2>
