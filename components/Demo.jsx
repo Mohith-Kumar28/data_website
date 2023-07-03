@@ -40,15 +40,15 @@ const Demo = () => {
     <div className=" md:w-1/2 bg-gray-800 bg-opacity-50 rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0">
       {/* <h2 className="text-white text-lg font-medium title-font mb-5">Sign Up</h2> */}
       <div className="relative mb-4">
-        <label for="first-name" className="leading-7 text-sm text-gray-400">First Name</label>
+        <label htmlFor="first-name" className="leading-7 text-sm text-gray-400">First Name</label>
         <input type="text" id="first-name" name="first-name" className="w-full bg-gray-600 bg-opacity-20 focus:bg-transparent focus:ring-2 focus:ring-purple-900 rounded border border-gray-600 focus:border-purple-500 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
       </div>
       <div className="relative mb-4">
-        <label for="last-name" className="leading-7 text-sm text-gray-400">Last Name</label>
+        <label htmlFor="last-name" className="leading-7 text-sm text-gray-400">Last Name</label>
         <input type="text" id="last-name" name="last-name" className="w-full bg-gray-600 bg-opacity-20 focus:bg-transparent focus:ring-2 focus:ring-purple-900 rounded border border-gray-600 focus:border-purple-500 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
       </div>
       <div className="relative mb-4">
-        <label for="email" className="leading-7 text-sm text-gray-400">Email</label>
+        <label htmlFor="email" className="leading-7 text-sm text-gray-400">Email</label>
         <input type="email" id="email" name="email" className="w-full bg-gray-600 bg-opacity-20 focus:bg-transparent focus:ring-2 focus:ring-purple-900 rounded border border-gray-600 focus:border-purple-500 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
       </div>
       <button className="text-white font-semibold bg-purple-500 border-0 py-2 px-8 focus:outline-none hover:bg-purple-600 rounded text-lg">Send Demo request</button>

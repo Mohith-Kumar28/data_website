@@ -26,50 +26,50 @@ const UseCases = () => {
     <div className="md:w-1/3 md:pr-12  md:border-r md:border-b-0 md:mb-0 mb-10 pb-10 border-b border-gray-800">
       <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Use Cases</h1>
      
-      <div class="flex flex-col gap-y-2">
-      <div class="  w-full">
-        <div class="bg-gray-800 rounded flex p-4 h-full items-center">
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="text-purple-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
+      <div className="flex flex-col gap-y-2">
+      <div className="  w-full">
+        <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" className="text-purple-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
             <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
             <path d="M22 4L12 14.01l-3-3"></path>
           </svg>
-          <span class="title-font font-medium">E-commerce</span>
+          <span className="title-font font-medium">E-commerce</span>
         </div>
       </div>
-      <div class="  w-full">
-        <div class="bg-gray-800 rounded flex p-4 h-full items-center">
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="text-purple-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
+      <div className="  w-full">
+        <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" className="text-purple-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
             <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
             <path d="M22 4L12 14.01l-3-3"></path>
           </svg>
-          <span class="title-font font-medium">Banking and Finance</span>
+          <span className="title-font font-medium">Banking and Finance</span>
         </div>
       </div>
-      <div class="  w-full">
-        <div class="bg-gray-800 rounded flex p-4 h-full items-center">
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="text-purple-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
+      <div className="  w-full">
+        <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" className="text-purple-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
             <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
             <path d="M22 4L12 14.01l-3-3"></path>
           </svg>
-          <span class="title-font font-medium">Gaming and Entertainment</span>
+          <span className="title-font font-medium">Gaming and Entertainment</span>
         </div>
       </div>
-      <div class="  w-full">
-        <div class="bg-gray-800 rounded flex p-4 h-full items-center">
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="text-purple-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
+      <div className="  w-full">
+        <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" className="text-purple-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
             <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
             <path d="M22 4L12 14.01l-3-3"></path>
           </svg>
-          <span class="title-font font-medium">Telecommunications</span>
+          <span className="title-font font-medium">Telecommunications</span>
         </div>
       </div>
-      <div class="  w-full">
-        <div class="bg-gray-800 rounded flex p-4 h-full items-center">
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="text-purple-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
+      <div className="  w-full">
+        <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" className="text-purple-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
             <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
             <path d="M22 4L12 14.01l-3-3"></path>
           </svg>
-          <span class="title-font font-medium">Insurance</span>
+          <span className="title-font font-medium">Insurance</span>
         </div>
       </div>
     
