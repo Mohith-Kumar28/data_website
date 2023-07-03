@@ -5,7 +5,7 @@ import Hero from '@/components/Hero'
 import Stats from '@/components/Stats'
 import UseCases from '@/components/UseCases'
 import Brands from '@/components/Brands'
-import Footer from '@/components/Footer'
+import Footer from '@/components/layout/Footer'
 import Faq from '@/components/Faq'
 import Demo from '@/components/Demo'
 

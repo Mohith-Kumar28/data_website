@@ -14,7 +14,7 @@ const Stats = () => {
       
   <div className="max-w-5xl container text-gray-900 px-5 pb-20 pt-44 mx-auto">
     <div className="flex  flex-col text-center w-full mb-14">
-      <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Statistics</h1>
+      <h1 className=" text-4xl font-medium title-font mb-4 text-white">Statistics</h1>
       <div className="lg:w-2/3 mx-auto leading-relaxed font-bold flex flex-col gap-y-1">Over 90% reduction in fraudulent transactions for our clients
      <div className='h-6 w-1 rounded-full bg-white mx-auto'></div>
 Detects and prevents sophisticated attacks with 99.9% accuracy
@@ -24,7 +24,7 @@ Saves millions of dollars annually in potential losses
     </div>
     <div className="flex flex-wrap -m-4 text-center">
       <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
-        <div className="border-2 bg-white border-gray-800 px-4 py-6 rounded-lg">
+        <div className="border-2  bg-white border-gray-800 px-4 py-6 rounded-lg">
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="text-purple-400 w-12 h-12 mb-3 inline-block" viewBox="0 0 24 24">
             <path d="M8 17l4 4 4-4m-4-5v9"></path>
             <path d="M20.88 18.09A5 5 0 0018 9h-1.26A8 8 0 103 16.29"></path>

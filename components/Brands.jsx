@@ -12,7 +12,7 @@ const Brands = () => {
         <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z" class="shape-fill"></path>
     </svg>
 </div> */}
-  <div className="container max-w-5xl px-5 pt-24 pb-36 mx-auto">
+  <div className="container max-w-5xl px-5 pt-24 pb-48 mx-auto">
     <div className="flex flex-col">
       <div className="h-1 bg-gray-800 rounded overflow-hidden">
         <div className="w-24 h-full bg-purple-500"></div>
@@ -76,19 +76,7 @@ const Brands = () => {
         </a>
     
       </div>
-      <div className="p-4 md:w-1/4 sm:mb-0 mb-6">
-        <div className="rounded-lg h-64 overflow-hidden">
-          <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1205x505"/>
-        </div>
-        <h2 className="text-xl font-medium title-font text-white mt-5">Brand 5</h2>
-        {/* <p className="text-base leading-relaxed mt-2">Swag shoindegoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p> */}
-        <a className="text-purple-400 inline-flex items-center mt-3">Learn More
-          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
-            <path d="M5 12h14M12 5l7 7-7 7"></path>
-          </svg>
-        </a>
-    
-      </div>
+     
     </div>
   </div>
 </section>
