@@ -10,7 +10,7 @@ const UseCases = () => {
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">About Us
       </h1>
-      <p className="mb-8 leading-relaxed">At Chargevisor, our mission is to deliver the world's most sophisticated AI-powered solutions to keep companies and their customers safe from fraud and abuse. Our breakthrough AI technology and seamless workflows empower fraud and data science teams to proactively defeat emerging fraud with speed and agility. </p>
+      <p className="mb-8 leading-relaxed">At Boujee, our mission is to deliver the world's most sophisticated AI-powered solutions to keep companies and their customers safe from fraud and abuse. Our breakthrough AI technology and seamless workflows empower fraud and data science teams to proactively defeat emerging fraud with speed and agility. </p>
      
     </div>
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
@@ -87,7 +87,7 @@ const UseCases = () => {
 <div className='flex flex-col md:flex-row'>
     <Lottie className='  w-80 ' animationData={lock} loop={true} />
 
-      <h2 className="title-font font-bold text-white tracking-wider text-lg md:pr-24 mt-10">Chargevisor provides comprehensive fraud protection in various industries</h2>
+      <h2 className="title-font font-bold text-white tracking-wider text-lg md:pr-24 mt-10">Boujee provides comprehensive fraud protection in various industries</h2>
       </div>
 
 

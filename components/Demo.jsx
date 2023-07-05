@@ -7,7 +7,7 @@ const Demo = () => {
   <div className="container max-w-5xl px-5 py-32 mx-auto flex flex-wrap items-center">
     <div className=" md:w-1/2 md:pr-16 ">
       <h1 className="title-font font-medium text-3xl text-white">Get a Demo</h1>
-      <p className="leading-relaxed mt-4">Request a demo to experience the power of Chargevisor firsthand. Our team will provide personalized insights and live demonstrations of fraud detection capabilities tailored to your specific business needs. Discover how Chargevisor can protect your organization from emerging threats and provide comprehensive fraud prevention.</p>
+      <p className="leading-relaxed mt-4">Request a demo to experience the power of Boujee firsthand. Our team will provide personalized insights and live demonstrations of fraud detection capabilities tailored to your specific business needs. Discover how Boujee can protect your organization from emerging threats and provide comprehensive fraud prevention.</p>
 
 
 

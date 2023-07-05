@@ -20,7 +20,7 @@ const Brands = () => {
       </div>
       <div className="flex flex-wrap sm:flex-row flex-col py-6 mb-12">
         <h1 className="sm:w-2/5 text-white font-medium title-font text-2xl mb-2 sm:mb-0">Brands that trust Us</h1>
-        <p className="sm:w-3/5 leading-relaxed text-base sm:pl-10 pl-0">Chargevisor has partnered with leading brands to deliver robust fraud protection solutions. Our trusted partners include industry leaders in e-commerce, banking, telecommunications, insurance, and gaming. By choosing Chargevisor, you join a network of companies that prioritize security and trust in their operations.
+        <p className="sm:w-3/5 leading-relaxed text-base sm:pl-10 pl-0">Boujee has partnered with leading brands to deliver robust fraud protection solutions. Our trusted partners include industry leaders in e-commerce, banking, telecommunications, insurance, and gaming. By choosing Boujee, you join a network of companies that prioritize security and trust in their operations.
 
 </p>
       </div>

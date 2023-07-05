@@ -8,6 +8,7 @@ import Brands from '@/components/Brands'
 import Footer from '@/components/layout/Footer'
 import Faq from '@/components/Faq'
 import Demo from '@/components/Demo'
+import Blog from '@/components/Blog'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -23,7 +24,8 @@ export default function Home() {
     <Stats/>
     <UseCases/>
     <Demo/>
-    <Brands/>
+    {/* <Brands/> */}
+    <Blog/>
     <Faq/>
     {/* </div> */}
     <Footer/>

@@ -15,7 +15,7 @@ const Hero = () => {
         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Empowering Enterprises with AI-Powered Fraud Protection
           {/* <br className="hidden lg:inline-block"/>goes here */}
         </h1>
-        <p className="mb-8 leading-relaxed">Welcome to Chargevisor, the leading AI-powered platform that safeguards the world's largest enterprises from online fraud, digital risks, and sophisticated attacks.</p>
+        <p className="mb-8 leading-relaxed">Welcome to Boujee, the leading AI-powered platform that safeguards the world's largest enterprises from online fraud, digital risks, and sophisticated attacks.</p>
         <div className="flex justify-center">
           <button className="inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg">Button</button>
           <button className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">Button</button>

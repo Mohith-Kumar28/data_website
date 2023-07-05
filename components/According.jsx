@@ -5,19 +5,19 @@ export default function According() {
 
 const faq=[
   {
-    question:'How does Chargevisor work?',
-    answer:'Chargevisor combines applied machine learning capabilities with powerful investigative workflows to detect and prevent fraud in real time. Our advanced algorithms analyze data from over 4 billion user accounts, providing accurate insights and protection.'
+    question:'How does Boujee work?',
+    answer:'Boujee combines applied machine learning capabilities with powerful investigative workflows to detect and prevent fraud in real time. Our advanced algorithms analyze data from over 4 billion user accounts, providing accurate insights and protection.'
   },
   {
-    question:'What sets Chargevisor apart from other fraud protection solutions?',
-    answer:'Chargevisor stands out with its powerful combination of AI technology, extensive intelligence network, and seamless workflows. Our unsupervised machine learning algorithms enable precise detection of known and unknown fraudulent activities, delivering unparalleled accuracy and speed.'
+    question:'What sets Boujee apart from other fraud protection solutions?',
+    answer:'Boujee stands out with its powerful combination of AI technology, extensive intelligence network, and seamless workflows. Our unsupervised machine learning algorithms enable precise detection of known and unknown fraudulent activities, delivering unparalleled accuracy and speed.'
   },
   {
-    question:'Is Chargevisor compatible with existing systems and platforms?',
-    answer:'Yes, Chargevisor is designed to seamlessly integrate with your existing systems and platforms. Our flexible architecture allows for easy implementation and integration, ensuring a smooth transition and minimal disruption to your operations.'
+    question:'Is Boujee compatible with existing systems and platforms?',
+    answer:'Yes, Boujee is designed to seamlessly integrate with your existing systems and platforms. Our flexible architecture allows for easy implementation and integration, ensuring a smooth transition and minimal disruption to your operations.'
   },
   {
-    question:'How long does it take to implement Chargevisor?',
+    question:'How long does it take to implement Boujee?',
     answer:'Implementation time may vary depending on your specific requirements and infrastructure. However, our dedicated implementation team works efficiently to ensure a swift and hassle-free integration process.'
   },
   {
