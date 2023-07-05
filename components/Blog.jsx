@@ -41,7 +41,7 @@ const Blog = () => {
             </a>
           </div>
         </div>
-      </div>
+      </div> 
     
       
       <div className="py-8 px-4 lg:w-1/3">
