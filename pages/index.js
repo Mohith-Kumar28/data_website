@@ -9,6 +9,7 @@ import Footer from '@/components/layout/Footer'
 import Faq from '@/components/Faq'
 import Demo from '@/components/Demo'
 import Blog from '@/components/Blog'
+import Head from 'next/head'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -17,6 +18,10 @@ export default function Home() {
     <main
       className={`min-h-screen bg-gray-900 `}
     >
+       <Head>
+      <title>Boujee</title>
+      <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+    </Head>
       
       <NavBar/>
       {/* <div className='max-w-5xl px-8 justify-center mx-auto '> */}
