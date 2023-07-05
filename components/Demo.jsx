@@ -2,7 +2,7 @@ import React from 'react'
 
 const Demo = () => {
   return (
-    <div>
+    <div id='demo'>
         <section className="text-gray-400 bg-gray-900 body-font">
   <div className="container max-w-5xl px-5 py-32 mx-auto flex flex-wrap items-center">
     <div className=" md:w-1/2 md:pr-16 ">

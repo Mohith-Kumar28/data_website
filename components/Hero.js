@@ -1,6 +1,7 @@
 import React from 'react'
 import Lottie from "lottie-react";
 import hero from "../animations/hero.json";
+import Link from 'next/link';
 // import dynamic from "next/dynamic";
 
 // const hero= dynamic(() => import("../animations/hero.json"), {
@@ -17,8 +18,10 @@ const Hero = () => {
         </h1>
         <p className="mb-8 leading-relaxed">Welcome to Boujee, the leading AI-powered platform that safeguards the world's largest enterprises from online fraud, digital risks, and sophisticated attacks.</p>
         <div className="flex justify-center">
-          <button className="inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg">Button</button>
-          <button className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">Button</button>
+          <Link href={'mailto:sokandar@boujee.cloud'}>
+          <button className="inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg">Contact Us</button>
+          </Link>
+          {/* <button className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">Button</button> */}
         </div>
       </div>
       <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">

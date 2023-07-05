@@ -16,7 +16,7 @@ function classNames(...classes) {
 
 export default function NavBar() {
   return (
-    <Disclosure as="nav" className="bg-gray-800">
+    <Disclosure as="nav" className="bg-gray-800 sticky top-0 z-50">
       {({ open }) => (
         <>
           <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
@@ -35,13 +35,13 @@ export default function NavBar() {
               <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex flex-shrink-0 items-center">
                   <img
-                    className="block h-8 w-auto lg:hidden"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+                    className="block h-12 rounded-xl w-auto lg:hidden"
+                    src="/assets/logo.png"
                     alt="Your Company"
                   />
                   <img
-                    className="hidden h-8 w-auto lg:block"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+                    className="hidden h-12 rounded-xl w-auto lg:block"
+                    src="/assets/logo.png"
                     alt="Your Company"
                   />
                 </div>
@@ -66,6 +66,7 @@ export default function NavBar() {
                   </div>
                 </div>
               <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
+                <Link href={'#demo'}>
                 <button
                   type="button"
                   className="rounded-full border-2 border-purple-500 bg-gray-100 px-4 py-2 text-purple-500 font-bold hover:text-white hover:bg-purple-500   focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
@@ -74,7 +75,7 @@ export default function NavBar() {
                   {/* <BellIcon className="h-6 w-6" aria-hidden="true" /> */}
                   Get a Demo
                 </button>
-
+                </Link>
                 {/* Profile dropdown */}
                 {/* <Menu as="div" className="relative ml-3">
                   <div>
