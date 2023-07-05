@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
+import { UserCircleIcon } from '@heroicons/react/20/solid'
 
 const Blog = () => {
   return (
@@ -34,7 +35,8 @@ const Blog = () => {
             <h1 className="title-font text-xl font-medium text-gray-900 mb-3">   <a target='_blank' href='https://www.bannerbank.com/financial-resources/blog/tips-to-prevent-online-fraud'>Protecting Against Online Fraud  </a></h1>
             <p className="leading-relaxed mb-5"> In today's digital landscape, online fraud has become a pervasive threat that affects individuals and businesses alike. The evolving tactics used by fraudsters make it challenging for organizations to detect and prevent fraudulent activity effectively. That's where Boujee comes in.</p>
             <a className="inline-flex items-center">
-              <img alt="blog" src="https://dummyimage.com/103x103" className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"/>
+              {/* <img alt="blog" src="https://dummyimage.com/103x103" className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"/> */}
+              <UserCircleIcon className='w-8 '/>
               <span className="flex-grow flex flex-col pl-3">
                 <span className="title-font font-medium text-gray-900">Alper Kamu</span>
               </span>
@@ -55,7 +57,8 @@ const Blog = () => {
             <h1 className="title-font text-xl font-medium text-gray-900 mb-3"> <a target='_blank' href='https://www.bannerbank.com/financial-resources/blog/tips-to-prevent-online-fraud'>Defending Against Digital Risks</a></h1>
             <p className="leading-relaxed mb-5">In the digital age, organizations face a multitude of digital risks that threaten the security of their sensitive information. Data breaches, identity theft, and cyber attacks have become all too common, and traditional security measures often fall short in effectively countering these threats. That's where Boujee steps in.</p>
             <a className="inline-flex items-center">
-              <img alt="blog" src="https://dummyimage.com/102x102" className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"/>
+              {/* <img alt="blog" src="https://dummyimage.com/102x102" className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"/> */}
+              <UserCircleIcon className='w-8 '/>
               <span className="flex-grow flex flex-col pl-3">
                 <span className="title-font font-medium text-gray-900">Holden Caulfield</span>
               </span>
@@ -76,7 +79,8 @@ const Blog = () => {
             <h1 className="title-font text-xl font-medium text-gray-900 mb-3"><a target='_blank' href='https://www.bannerbank.com/financial-resources/blog/tips-to-prevent-online-fraud'>Combatting Sophisticated Attacks</a></h1> 
             <p className="leading-relaxed mb-5">Cybercriminals are continually developing sophisticated attack techniques to breach organizational defenses and compromise sensitive data. Traditional security measures are often insufficient in countering these advanced threats, leaving organizations vulnerable to significant financial and reputational damage.</p>
             <a className="inline-flex items-center">
-              <img alt="blog" src="https://dummyimage.com/101x101" className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"/>
+              {/* <img alt="blog" src="https://dummyimage.com/101x101" className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"/> */}
+              <UserCircleIcon className='w-8 '/>
               <span className="flex-grow flex flex-col pl-3">
                 <span className="title-font font-medium text-gray-900">Henry Letham</span>
               </span>

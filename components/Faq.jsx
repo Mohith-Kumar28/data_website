@@ -12,7 +12,7 @@ const Faq = () => {
   return (
     <div id='faq' className='relative'>
 
-<Lottie className='rotate-180 hidden md:flex md:absolute md:bottom-72   left-0 w-full' animationData={blueWaves} loop={true} />
+<Lottie className='rotate-180 hidden md:flex md:absolute z-20 md:bottom-72   left-0 w-full' animationData={blueWaves} loop={true} />
 
         <section className="text-gray-400 relative z-10 bg-[#60C3D8] body-font">
   <div className="  container max-w-5xl px-5 py-24 md:mt-10 md:pb-32 mx-auto flex ">
